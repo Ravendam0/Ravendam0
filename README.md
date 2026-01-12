@@ -1,41 +1,33 @@
 # Hi 👋, I'm Harrison Hinda
 
-### A passionate Javascript developer
+# 💫 About Me:
+I’m a passionate Frontend Developer and tech enthusiast who enjoys turning ideas into clean, functional, and user-friendly digital experiences. I mainly work with HTML, CSS, JavaScript, PHP, and React, and I’m always exploring better ways to build modern web interfaces.<br><br>Beyond coding, I have a strong interest in AI-powered systems, automation, and creating solutions that solve real-world problems. I enjoy learning by building projects, experimenting with new tools, and improving my skills one step at a time.<br><br>Currently, I’m focused on:<br><br>Building responsive and interactive web applications<br><br>Improving UI/UX design skills<br><br>Exploring AI assistants and smart web integrations<br><br>Growing my tech brand and real-world experience<br><br>I believe in consistency, curiosity, and continuous growth. Every project is a step forward.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravendam0&label=Profile views&color=0e75b6&style=flat" alt="Ravendam0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ravendam0" alt="Ravendam0" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/royalgen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harrisonoscar35) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nextgen.royaltech) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Raven-Dam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:care@royaltech254.co.ke) 
 
-- 🔭 I'm currently working on **My Random Projects**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ravendam0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ravendam0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravendam0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I'm currently learning **PHP, MySQL, React**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ravendam0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 💬 Ask me about **Web development**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me **care@royaltech254.co.ke**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ravendam0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **Just a chill guy**
+---
+[![](https://visitcount.itsvg.in/api?id=Ravendam0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at **[https://portfolio2.royaltech254.co.ke/](https://portfolio2.royaltech254.co.ke/)**
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ravendam) 
 
-- 📝 I regularly write articles on **[https://myportfolio.royaltech254.co.ke/](https://myportfolio.royaltech254.co.ke/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1fzNKGNrua979mBkNyalZYAplepH6G0Qd/view?usp=sharing](https://drive.google.com/file/d/1fzNKGNrua979mBkNyalZYAplepH6G0Qd/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ravendam0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ravendam0" height="30" width="40" /></a>
-<a href="https://codepen.io/Ravendam0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Ravendam0" height="30" width="40" /></a>
-<a href="https://instagram.com/harrisonoscar35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harrisonoscar35" height="30" width="40" /></a>
-<a href="https://youtube.com/LyricalJoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="LyricalJoh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ravendam0&show_icons=true&locale=en&layout=compact" alt="Ravendam0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ravendam0&show_icons=true&locale=en" alt="Ravendam0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravendam0&" alt="Ravendam0" /></p>
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
